@@ -60,14 +60,14 @@
 </p>
 
 <p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=teddyhuang-00&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact"
-        alt="teddyhuang-00" />
+    <img align="left" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=teddyhuang-00&show_icons=true&bg_color=30,1ee3cf,6b48ff,0d3f67&title_color=eee&text_color=eee&hide_border=true&cache_seconds=1800&locale=en"
+         alt="teddyhuang-00 language stack" />
 </p>
 
 <p>
     &nbsp;
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=teddyhuang-00&show_icons=true&theme=onedark&hide_border=true&locale=en"
-        alt="teddyhuang-00" />
+         src="https://github-readme-stats.vercel.app/api?username=teddyhuang-00&show_icons=true&bg_color=30,1ee3cf,6b48ff,0d3f67&title_color=eee&text_color=eee&icon_color=eee&hide_border=true&cache_seconds=1800&locale=en" 
+         alt="teddyhuang-00 Github stats" />
 </p>
