@@ -68,6 +68,6 @@
 <p>
     &nbsp;
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=teddyhuang-00&show_icons=true&bg_color=30,1ee3cf,6b48ff,0d3f67&title_color=f2f4f6&text_color=f2f4f6&icon_color=eee&hide_border=true&cache_seconds=1800&locale=en" 
+         src="https://github-readme-stats.vercel.app/api?username=teddyhuang-00&show_icons=true&bg_color=30,1ee3cf,6b48ff,0d3f67&title_color=f2f4f6&text_color=f2f4f6&icon_color=eee&hide_border=true&include_all_commits=true&line_height=32&cache_seconds=1800&locale=en" 
          alt="teddyhuang-00 Github stats" />
 </p>
