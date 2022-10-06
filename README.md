@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huang Nan (Theodore)</h1>
+<h1 align="center">Hi 👋, I'm Nan Huang (Theodore)</h1>
 
 <p align="center">
     <a href="https://github.com/TeddyHuang-00?tab=repositories&sort=stargazers">
