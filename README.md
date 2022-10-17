@@ -17,7 +17,9 @@
 
 - 💬 Ask me about **Python / Pytorch / Streamlit / C++**
 
-- 📫 How to reach me **huang_nan_2019@pku.edu.cn**
+- 🏠 Check out my [**GitHub Pages**](https://teddyhuang-00.github.io/) also
+
+- 📫 How to reach me [**huang_nan_2019@pku.edu.cn**](mailto:huang_nan_2019@pku.edu.cn)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
