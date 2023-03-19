@@ -13,7 +13,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Bioinformatics & Computational Neurosciene**
+- 🌱 I’m currently learning **Bioinformatics & Computational Neuroscience**
 
 - 💬 Ask me about **Python / Pytorch / Streamlit / C++**
 
