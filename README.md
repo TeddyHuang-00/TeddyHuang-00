@@ -13,7 +13,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Bioinformatics & Computational Neuroscience**
+- 🌱 I’m currently learning **Computational Biology**
 
 - 🔍 **EXTERNAL reviewer** for KDD
 
