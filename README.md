@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nan Huang (Theodore)</h1>
 
-- 🌱 I’m currently learning **Computational Biology**
+- 🌱 I’m currently learning **Data Mining on Time Series**
 
 - 🔍 **EXTERNAL reviewer** for KDD
 
