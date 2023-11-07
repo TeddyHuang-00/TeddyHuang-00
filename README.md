@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nan Huang (Theodore)</h1>
 
-- 🌱 I’m currently learning **Data Mining on Time Series**
+- 🌱 I’m currently studying **Computer Science**
 
-- 🔍 **EXTERNAL reviewer** for KDD
+- 🔍 **Reviewer** for AISTATS, **EXTERNAL reviewer** for AAAI, KDD, NeurlIPS
 
 - 💬 Ask me about **Python / Pytorch / Streamlit / C++**
 
