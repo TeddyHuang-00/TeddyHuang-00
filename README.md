@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 🔍 **Reviewer** for AISTATS, **EXTERNAL reviewer** for AAAI, KDD, NeurlIPS
+- 🔍 **Reviewer** for AISTATS, ICLR; **EXTERNAL reviewer** for AAAI, KDD, NeurIPS
 
-- 💬 Ask me about **Python / Pytorch / Streamlit / C++**
+- 💬 Ask me about **Python (Pytorch | Streamlit) / Rust (Burn) / Vue (Nuxt) / C++**
 
 - 🏠 Check out my [**GitHub Pages**](https://teddyhuang-00.github.io/) also
 
