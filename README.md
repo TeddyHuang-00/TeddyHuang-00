@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 🔍 **Reviewer** for AISTATS, ICLR; **EXTERNAL reviewer** for AAAI, KDD, NeurIPS
+- 🔍 **Reviewer** for NeurIPS, ICLR, AISTATS; **EXTERNAL reviewer** for AAAI, KDD, NeurIPS
 
 - 💬 Ask me about **Python (Pytorch | Streamlit) / Rust (Burn) / Vue (Nuxt) / C++**
 
